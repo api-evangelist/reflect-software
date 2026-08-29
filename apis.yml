@@ -27,6 +27,8 @@ description: Reflect Software is a company surfaced as a portfolio company of ba
   to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
   pipeline.
 url: https://raw.githubusercontent.com/api-evangelist/reflect-software/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
